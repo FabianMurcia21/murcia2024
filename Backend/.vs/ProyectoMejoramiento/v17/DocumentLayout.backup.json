@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|c:\\users\\fabis\\source\\repos\\proyectomejoramiento\\backend\\proyectomejoramiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|solutionrelative:proyectomejoramiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|c:\\users\\fabis\\source\\repos\\proyectomejoramiento\\backend\\proyectomejoramiento\\models\\employee.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|solutionrelative:proyectomejoramiento\\models\\employee.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|c:\\users\\fabis\\source\\repos\\proyectomejoramiento\\backend\\proyectomejoramiento\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|solutionrelative:proyectomejoramiento\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|c:\\users\\fabis\\source\\repos\\proyectomejoramiento\\backend\\proyectomejoramiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|solutionrelative:proyectomejoramiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|c:\\users\\fabis\\source\\repos\\proyectomejoramiento\\backend\\proyectomejoramiento\\controllers\\employee.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02899C15-2D27-4714-807C-58F17F8383B1}|ProyectoMejoramiento\\ProyectoMejoramiento.csproj|solutionrelative:proyectomejoramiento\\controllers\\employee.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.Model.cs",
+              "DocumentMoniker": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Models\\Employee.Model.cs",
+              "RelativeDocumentMoniker": "ProyectoMejoramiento\\Models\\Employee.Model.cs",
+              "ToolTip": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Models\\Employee.Model.cs",
+              "RelativeToolTip": "ProyectoMejoramiento\\Models\\Employee.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:51:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoMejoramiento\\Program.cs",
+              "ToolTip": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Program.cs",
+              "RelativeToolTip": "ProyectoMejoramiento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:49:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoMejoramiento\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\appsettings.json",
+              "RelativeToolTip": "ProyectoMejoramiento\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T13:50:13.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Controllers\\Employee.Controller.cs",
+              "RelativeDocumentMoniker": "ProyectoMejoramiento\\Controllers\\Employee.Controller.cs",
+              "ToolTip": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Controllers\\Employee.Controller.cs",
+              "RelativeToolTip": "ProyectoMejoramiento\\Controllers\\Employee.Controller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:49:30.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoMejoramiento\\Models\\DbContext.cs",
+              "ToolTip": "C:\\Users\\fabis\\source\\repos\\ProyectoMejoramiento\\Backend\\ProyectoMejoramiento\\Models\\DbContext.cs",
+              "RelativeToolTip": "ProyectoMejoramiento\\Models\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:47:15.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
